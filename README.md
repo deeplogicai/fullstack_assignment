@@ -12,7 +12,7 @@ The assignment consists of mainly two parts -
 ## 1. Building APIs
 You must complete the following using Python and Django framework (any database of your choice). The APIs should cover the following bare minimum - 
 - User authentication
-- A table consisting of restaurant details (id, name, address); another table containing dishes (id, name, thumbnail path); and a final table restuarant dish mapping (restuarant_id, dish_id)
+- A table consisting of restaurant details (id, name, address); another table containing dishes (id, name, thumbnail path); and a final table restuarant dish mapping (restuarant_id, dish_idasasa
 
 Points to note -
 - Bonus points for using any database other than sqlite. (Preferred PostgreSQL).
